@@ -12,16 +12,16 @@
 
 [![codepen](./images/socials/codepen-dark.svg)](https://codepen.io/0sergej#gh-dark-mode-only)
 [![codepen](./images/socials/codepen-light.svg)](https://codepen.io/0sergej#gh-light-mode-only)
-
+&nbsp;&nbsp;
 [![twitter](./images/socials/twitter-dark.svg)](https://twitter.com/es0gr#gh-dark-mode-only)
 [![twitter](./images/socials/twitter-light.svg)](https://twitter.com/es0gr#gh-light-mode-only)
-
+&nbsp;&nbsp;
 [![linkedin](./images/socials/linkedin-dark.svg)](https://linkedin.com/in/sergejstojanovic#gh-dark-mode-only)
 [![linkedin](./images/socials/linkedin-light.svg)](https://linkedin.com/in/sergejstojanovic#gh-light-mode-only)
-
+&nbsp;&nbsp;
 [![facebook](./images/socials/facebook-dark.png)](https://fb.com/sergejstojanovic#gh-dark-mode-only)
 [![facebook](./images/socials/facebook-light.svg)](https://fb.com/sergejstojanovic#gh-light-mode-only)
-
+&nbsp;&nbsp;
 [![instagram](./images/socials/instagram-dark.svg)](https://instagram.com/jegres00#gh-dark-mode-only)
 [![instagram](./images/socials/instagram-light.svg)](https://instagram.com/jegres00#gh-light-mode-only)
 
@@ -39,8 +39,9 @@
 
 [<img align="left" alt="javascript" width="24px" src="./images/tools/javascript.svg" style="padding-right:10px;" />][javascript]
 
-[<img align="left" alt="git" width="24px" src="./images/tools/git-dark.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="git" width="24px" src="./images/tools/git-light.svg" style="padding-right:10px;" />][git]
+&nbsp;&nbsp;
+[![git](./images/socials/git-dark.svg)](https://git-scm.com/#gh-dark-mode-only)
+[![git](./images/socials/git-light.svg)](https://git-scm.com/#gh-light-mode-only)
 
 [<img align="left" alt="figma" width="24px" src="./images/tools/figma.svg" style="padding-right:10px;" />][figma]
 
