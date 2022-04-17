@@ -1,46 +1,60 @@
-<h1 align="center">Hi There 👋, I'm Sergej Stojanovic</h1>
-<h3 align="center">I love coding web-sites and learning new technologies.</h3>
+### Hi There 👋, I'm Sergej Stojanovic
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/0sergej" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="0sergej" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/es0gr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="es0gr" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sergej stojanovic" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergej stojanovic" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/sergej stojanovic" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergej stojanovic" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jegres00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jegres00" height="30" width="40" />
-  </a>
-</p>
+## I _love coding_ web-sites and _learning_ new technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+- 📖 I’m currently learning everything 
+- 👯 I am really looking forward to joining a team
+- 🥅 2022 Goals: Learn REACT framework
+- ⚡ Fun fact: I love to going to the gym
+- 🌐 Check out my personal website [ website ]
+## Connect with me:
+
+[ ![ codepen ] (./images/socials/codepen-dark) ] [ codepen ]
+[ ![ codepen ] (./images/socials/codepen-light) ] [ codepen ]
+
+[ ![ twitter ] (./images/socials/twitter-dark) ] [ twitter ]
+[ ![ twitter ] (./images/socials/twitter-light) ] [ twitter ]
+
+[ ![ linkedin ] (./images/socials/linkedin-dark.svg) ] [ linkedin ]
+[ ![ linkedin ] (./images/socials/linkedin-light.svg) ] [ linkedin ]
+
+[ ![ facebook ] (./images/socials/facebook-dark.svg) ] [ facebook ]
+[ ![ facebook ] (./images/socials/facebook-light.svg) ] [ facebook ]
+
+[ ![ jegres00 ] (./images/socials/instagram-dark.svg) ] [ instagram ]
+[ ![ jegres00 ] (./images/socials/instagram-light.svg) ] [ instagram ]
+
+## Languages and Tools:
+
+[ ![ html5 ] (./images/tools/html.svg) ] [ html5 ]
+
+[ ![ css3 ] (./images/tools/css3.svg) ] [ css3 ]
+
+[ ![ tailwind ] (./images/tools/tailwind.svg) ] [ tailwind ]
+
+[ ![ sass ] (./images/tools/sass.svg) ] [ sass ]
+
+[ ![ parcel ] (./images/tools/parcel.svg) ] [ parcel ]
+
+[ ![ javascript ] (./images/tools/javascript.svg) ] [ javascript ]
+
+[ ![ git ] (./images/tools/git-dark.svg) ] [ git ]
+[ ![ git ] (./images/tools/git.svg-light) ] [ git ]
+
+[ ![ figma ] (./images/tools/figma.svg) ] [ figma ]
+
+[ website ]: https://6258617370117e209327df5f--ephemeral-gelato-f1f98f.netlify.app/
+[ codepen ]: https://codepen.io/0sergej
+[ facebook ]: https://fb.com/sergejstojanovic
+[ twitter ]: https://twitter.com/es0gr
+[ instagram ]: https://instagram.com/jegres00
+[ linkedin ]: https://linkedin.com/in/sergejstojanovic
+[ html5 ]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[ css3 ]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[ tailwind ] https://tailwindcss.com/
+[ sass ]: https://sass-lang.com
+[ parcel ]: https://parceljs.org/
+[ javascript ]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[ git ]: https://git-scm.com/
+[ figma ]: https://www.figma.com/
