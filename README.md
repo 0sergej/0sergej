@@ -39,11 +39,11 @@
 
 [<img align="left" alt="javascript" width="24px" src="./images/tools/javascript.svg" style="padding-right:10px;" />][javascript]
 
-&nbsp;&nbsp;
-[![git](./images/socials/git-dark.svg)](https://git-scm.com/#gh-dark-mode-only)
-[![git](./images/socials/git-light.svg)](https://git-scm.com/#gh-light-mode-only)
-
 [<img align="left" alt="figma" width="24px" src="./images/tools/figma.svg" style="padding-right:10px;" />][figma]
+
+[![git](./images/tools/git-dark.svg)](https://git-scm.com/#gh-dark-mode-only)
+[![git](./images/tools/git-light.svg)](https://git-scm.com/#gh-light-mode-only)
+&nbsp;&nbsp;
 
 [website]: https://6258617370117e209327df5f--ephemeral-gelato-f1f98f.netlify.app/
 [codepen]: https://codepen.io/0sergej
@@ -58,5 +58,5 @@
 [sass]: https://sass-lang.com
 [parcel]: https://parceljs.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[git]: https://git-scm.com/
 [figma]: https://www.figma.com/
+[git]: https://git-scm.com/
