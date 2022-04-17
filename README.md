@@ -10,8 +10,8 @@
 
 ## Connect with me:
 
-[<img  align="left" alt="codepen" width="26px" src="./images/socials/codepen-dark.svg" style="padding-right:10px;" />][vscode]
-[<img  align="left" alt="codepen" width="26px" src="./images/socials/codepen-light.svg" style="padding-right:10px;" />][vscode]
+[<img  align="left" alt="codepen" width="26px" src="./images/socials/codepen-dark.svg" style="padding-right:10px;" />][codepen]
+[<img  align="left" alt="codepen" width="26px" src="./images/socials/codepen-light.svg" style="padding-right:10px;" />][codepen]
 
 [<img  align="left" alt="twitter" width="26px" src="./images/socials/twitter-dark.svg" style="padding-right:10px;" />][twitter]
 [<img  align="left" alt="twitter" width="26px" src="./images/socials/twitter-light.svg" style="padding-right:10px;" />][twitter]
@@ -19,13 +19,13 @@
 [<img  align="left" alt="linkedin" width="26px" src="./images/socials/linkedin-dark.svg" style="padding-right:10px;" />][linkedin]
 [<img  align="left" alt="linkedin" width="26px" src="./images/socials/linkedin-light.svg" style="padding-right:10px;" />][linkedin]
 
-[<img  align="left" alt="facebook" width="26px" src="./images/socials/facebook-dark.svg" style="padding-right:10px;" />][facebook]
+[<img  align="left" alt="facebook" width="26px" src="./images/socials/facebook-dark.eps" style="padding-right:10px;" />][facebook]
 [<img  align="left" alt="facebook" width="26px" src="./images/socials/facebook-light.svg" style="padding-right:10px;" />][facebook]
 
 [<img  align="left" alt="instagram" width="26px" src="./images/socials/instagram-dark.svg" style="padding-right:10px;" />][instagram]
 [<img alt="instagram" width="26px" src="./images/socials/instagram-light.svg" style="padding-right:10px;" />][instagram]
 
-## Languages and Tools:
+## Languages and Tools I Use:
 
 [<img  align="left" alt="vscode" width="26px" src="./images/tools/vscode.svg" style="padding-right:10px;" />][vscode]
 
