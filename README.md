@@ -45,7 +45,7 @@
 [![git](./images/tools/git-light.svg)](https://git-scm.com/#gh-light-mode-only)
 &nbsp;&nbsp;
 
-[website]: https://6258617370117e209327df5f--ephemeral-gelato-f1f98f.netlify.app/
+[website]: http://sergejstojanovic.rf.gd/
 [codepen]: https://codepen.io/0sergej
 [facebook]: https://fb.com/sergejstojanovic
 [twitter]: https://twitter.com/es0gr
